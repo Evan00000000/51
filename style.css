@@ -1,0 +1,41 @@
+/* * {
+    border: solid;
+} */
+
+.description {
+    text-align: center;
+    color: #ffffff;
+    font-size: large;
+}
+
+* {
+    font-family: monospace;
+}
+
+.header {
+    background-color: #323232;
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+    font-size: x-large;
+    
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: #ffffff;
+    font-size: large;
+    
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+body {
+    background-color: #477878
+    
+}
